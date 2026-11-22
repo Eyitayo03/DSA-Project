@@ -7,6 +7,9 @@ FinSight Financial Analytics is a business intelligence project developed using 
 The project transforms financial transaction data into interactive dashboards and a structured Profit & Loss statement, providing insights into revenue growth, profitability, expense patterns, branch performance and departmental cost efficiency.
 
 # Business Problem
+Despite significant revenue growth between 2024 and 2025, the business experienced increasing expenses and declining profitability.
+
+The objective of this project is to investigate the factors behind this performance gap and provide management with actionable insights to improve financial performance and operational efficiency.
 
 
 
