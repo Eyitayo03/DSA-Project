@@ -1,4 +1,4 @@
-## FinSight Financial Analytics
+<img width="3075" height="1763" alt="Financial Performance_page-0001" src="https://github.com/user-attachments/assets/95ee0e20-8dee-4f1e-b0b1-9bcdf4edd948" />## FinSight Financial Analytics
  Financial analysis and business intelligence project using Power BI, featuring financial performance analysis, interactive dashboards, and Profit and Loss reporting.
 
 ## Project Overview
@@ -27,6 +27,9 @@ GitHub : Project documentation and version control
 
 <img width="3075" height="1763" alt="Dashboard Overview_page-0001" src="https://github.com/user-attachments/assets/a26f984f-60a0-4d12-ae64-b6a2694ddddf" />
 
+2. Financial Performance Examines year-over-year and month-over-month performance, revenue comparisons and profitability margin trends.
+
+<img width="3075" height="1763" alt="Financial Performance_page-0001" src="https://github.com/user-attachments/assets/43d84538-1f83-495c-84ac-ea45e37966fb" />
 
 
 
