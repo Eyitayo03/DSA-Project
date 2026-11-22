@@ -32,7 +32,10 @@ Examines year-over-year and month-over-month performance, revenue comparisons an
 3. Operational Analysis
 Evaluates revenue contributions by branch, expense categories and operating expenses by department.
 
+<img width="3075" height="1763" alt="Operational Analysis_page-0001" src="https://github.com/user-attachments/assets/1f1974d6-4c2d-4f4f-a1e5-83ef2d1a63b1" />
 
+4. Profit and Loss Statement
+Presents a structured monthly Profit & Loss statement covering revenue, cost of sales, gross profit, operating expenses, operating profit and net profit before tax.
 
 
 
