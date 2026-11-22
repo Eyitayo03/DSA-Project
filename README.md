@@ -60,4 +60,17 @@ The table below highlights the company's financial performance in 2024 and 2025
 2. Improve gross profit margins: Review product pricing, procurement costs and cost of goods sold.
 3. Strengthen operational efficiency: Monitor branch and departmental performance to identify opportunities for cost optimization.
 
+# Project Skills Demonstrated
+- Data cleaning and transformation
+- Data modelling and relationship management
+- DAX calculations and financial measures
+- Time intelligence analysis
+- Interactive dashboard development
+- Financial reporting and business analysis
+- Data storytelling and management recommendations
+
+# Conclusion
+This project demonstrates how business intelligence tools can transform raw financial transactions into meaningful insights that support strategic decision-making, financial monitoring and operational improvement.
+
+
 
