@@ -2,9 +2,11 @@
  Financial analysis and business intelligence project using Power BI, featuring financial performance analysis, interactive dashboards, and Profit and Loss reporting.
 
 ## Project Overview
+FinSight Financial Analytics is a business intelligence project developed using Microsoft Power BI to analyse the financial performance of FinSight Distribution & Consumer Products Ltd.
 
+The project transforms financial transaction data into interactive dashboards and a structured Profit & Loss statement, providing insights into revenue growth, profitability, expense patterns, branch performance and departmental cost efficiency.
 
-
+# Business Problem
 
 
 
