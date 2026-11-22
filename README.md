@@ -22,5 +22,11 @@ DAX : For Financial measures and time intelligence
 
 GitHub : Project documentation and version control
 
+#  Project Deliverables
+1. Executive Overview Provides a high-level view of financial performance through KPI cards, revenue trends, profitability margins and expense breakdowns.
+
+<img width="3075" height="1763" alt="Dashboard Overview_page-0001" src="https://github.com/user-attachments/assets/a26f984f-60a0-4d12-ae64-b6a2694ddddf" />
+
+
 
 
