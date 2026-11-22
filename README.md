@@ -1,4 +1,4 @@
-<img width="3075" height="1763" alt="Financial Performance_page-0001" src="https://github.com/user-attachments/assets/95ee0e20-8dee-4f1e-b0b1-9bcdf4edd948" />## FinSight Financial Analytics
+## FinSight Financial Analytics
  Financial analysis and business intelligence project using Power BI, featuring financial performance analysis, interactive dashboards, and Profit and Loss reporting.
 
 ## Project Overview
