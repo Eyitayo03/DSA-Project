@@ -37,7 +37,7 @@ Evaluates revenue contributions by branch, expense categories and operating expe
 4. Profit and Loss Statement
 Presents a structured monthly Profit & Loss statement covering revenue, cost of sales, gross profit, operating expenses, operating profit and net profit before tax.
 
-
+<img width="3075" height="1763" alt="Profit and Loss Statement" src="https://github.com/user-attachments/assets/b4e5dd8d-866c-4db2-a5ea-dd98fb17653c" />
 
 # Key Financial Findings
 The table below highlights the company's financial performance in 2024 and 2025
